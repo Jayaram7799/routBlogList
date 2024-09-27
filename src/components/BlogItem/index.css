@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.blog-item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.blog-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.date {
+  margin-top: 35px;
+}
